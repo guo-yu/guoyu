@@ -1,0 +1,17 @@
+{
+  "name": "guoyu",
+  "version": "0.0.1",
+  "description": "require me please!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "guoyu",
+    "turingou",
+    "turing",
+    "yuguo"
+  ],
+  "author": "turingou",
+  "license": "MIT"
+}
